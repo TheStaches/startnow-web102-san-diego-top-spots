@@ -1,0 +1,1 @@
+Shows the top spot in San Diego and allows you to view the google maps location.
